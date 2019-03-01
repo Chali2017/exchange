@@ -1,3 +1,3 @@
 # exchange
 springCloud与golang项目之间的api互相调用
-代码中除了webapi是golang程序外，其他三个都是基于SpringCloud的java程序，其中registerCenter是注册中心，client是服务调用方和sidecar使用方，demo是另一个java服务提供方，其中webapi可能有依赖性的错误，请各位自行解决掉
+代码中除了webapi是golang程序外，其他三个都是基于SpringCloud的java程序，其中registerCenter是注册中心，client是服务调用方和sidecar使用方，demo是另一个java服务提供方，其中webapi可能有依赖性的错误，请各位自行解决掉。
